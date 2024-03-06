@@ -1,0 +1,5 @@
+ligaria um dos interruptores e o manteria ligado por alguns minutos para aquecer a lâmpada associada a esse interruptor. 
+Em seguida, desligaria esse interruptor e ligaria outro. Enquanto isso, deixaria o terceiro interruptor desligado.
+
+Observaria qual lâmpada está acesa e qual está apagada. Se a lâmpada estiver acesa, isso indica que o interruptor que foi ligado recentemente controla essa lâmpada. 
+Se a lâmpada estiver apagada e quente indica o interuptor que foi ligado e desligado recentemente, isso significa que o interruptor que permaneceu desligado controla a lâmpada desligada.
